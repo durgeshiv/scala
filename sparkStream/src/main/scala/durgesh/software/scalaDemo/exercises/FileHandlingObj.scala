@@ -12,7 +12,7 @@ object FileHandlingObj extends App {
   //getClass.getResourceAsStream("movie_ratings.csv")
 
   //Reading and parsing file
-  val data  =
+ // val data  =
 
 
   lazy val data = Source.fromResource("movie_ratings.csv")

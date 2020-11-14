@@ -99,9 +99,9 @@
                 <artifactId>maven-assembly-plugin</artifactId>
                 <version>2.5.3</version>
                 <configuration>
-                <source>1.8</source>
+        <!--        <source>1.8</source>
                 <target>1.8</target>
-                <descriptorRefs>
+         -->       <descriptorRefs>
                 <descriptorRef>jar-with-dependencies</descriptorRef>
                 </descriptorRefs>
                 </configuration>

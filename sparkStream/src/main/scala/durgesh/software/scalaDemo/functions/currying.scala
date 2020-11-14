@@ -10,6 +10,7 @@ object currying extends App {
   //can be called as
 
   val a = addCurried(2) _
+
   val b = a(3)
   println(a)
   println(b)

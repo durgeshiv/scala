@@ -36,7 +36,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SparkScala/SparkScala" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -45,33 +46,28 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Durgesh Agnihotri\Documents\GitHub\scala\sparkStream\src\main\resources" />
+      <recent name="C:\Users\Durgesh Agnihotri\Documents\GitHub\scala\sparkStream\src\main\scala\durgesh\software\scalaDemo\exercises" />
       <recent name="C:\Users\Durgesh Agnihotri\Documents\My Projects\sparkStream\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileHandlingObj">
-    <configuration name="FileHandlingObj" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.FileHandlingObj" />
+  <component name="RunManager" selected="Application.nonconsecutiveSumMax">
+    <configuration name="maxSpendByCustomer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.maxSpendByCustomer" />
       <module name="sparkStream" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exceptionHandlings" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exceptionHandlings" />
+    <configuration name="mintemp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.mintemp" />
       <module name="sparkStream" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.fibonacci" />
-      <module name="sparkStream" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="foldAndReduce" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.foldAndReduce" />
+    <configuration name="mostPopularMovie" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.mostPopularMovie" />
       <module name="sparkStream" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,49 +80,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="wc" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.wc" />
       <module name="sparkStream" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="sparkStream" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,20 +114,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.foldAndReduce" />
-      <item itemvalue="Application.exceptionHandlings" />
-      <item itemvalue="Application.fibonacci" />
+      <item itemvalue="Application.wc" />
+      <item itemvalue="Application.mintemp" />
+      <item itemvalue="Application.maxSpendByCustomer" />
+      <item itemvalue="Application.mostPopularMovie" />
       <item itemvalue="Application.nonconsecutiveSumMax" />
-      <item itemvalue="Application.FileHandlingObj" />
       <item itemvalue="Maven.sparkStream " />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileHandlingObj" />
         <item itemvalue="Application.nonconsecutiveSumMax" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.foldAndReduce" />
-        <item itemvalue="Application.exceptionHandlings" />
+        <item itemvalue="Application.mintemp" />
+        <item itemvalue="Application.mostPopularMovie" />
+        <item itemvalue="Application.maxSpendByCustomer" />
+        <item itemvalue="Application.wc" />
       </list>
     </recent_temporary>
   </component>
@@ -181,10 +137,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1602571136486" />
-    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1601546727428">
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1604590504881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601546727428" />
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604590504881" />
+    <state x="451" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604637239110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1604637239110" />
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1603744058363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -193,33 +153,41 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1602524789924" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603751801278">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1605023186587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603751801278" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603748895902">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605023186587" />
+    <state width="1323" height="276" key="GridCell.Tab.0.bottom" timestamp="1604673696072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603748895902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1603748895902">
+    <state width="1323" height="276" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604673696072" />
+    <state width="1323" height="276" key="GridCell.Tab.0.center" timestamp="1604673696071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603748895902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1603748895902">
+    <state width="1323" height="276" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604673696071" />
+    <state width="1323" height="276" key="GridCell.Tab.0.left" timestamp="1604673696071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603748895902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1603748895902">
+    <state width="1323" height="276" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604673696071" />
+    <state width="1323" height="276" key="GridCell.Tab.0.right" timestamp="1604673696072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603748895902" />
-    <state x="369" y="145" width="680" height="438" key="NewModule_or_Project.wizard" timestamp="1602756615125">
+    <state width="1323" height="276" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604673696072" />
+    <state x="369" y="145" width="680" height="438" key="NewModule_or_Project.wizard" timestamp="1604652287886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="369" y="145" width="680" height="438" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1602756615125" />
+    <state x="369" y="145" width="680" height="438" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1604652287886" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1602571269363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602571269363" />
+    <state x="274" y="24" key="new project wizard" timestamp="1605023221734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1605023221734" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604581181364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604581181364" />
   </component>
 </project>

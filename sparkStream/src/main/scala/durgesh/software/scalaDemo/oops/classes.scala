@@ -9,6 +9,8 @@ class classes {
   val age = 10
   // if we do
   // private val age = 10 stmt at 20 will give error as this element will not be assessible from there
+
+  //private val age = 10
   
 
   def getA = age
@@ -19,4 +21,5 @@ class classes {
  object test extends App {
    val instCl = new classes
    println(instCl.age)
+
  }
