@@ -51,7 +51,14 @@
       <recent name="C:\Users\Durgesh Agnihotri\Documents\My Projects\sparkStream\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nonconsecutiveSumMax">
+  <component name="RunManager" selected="Application.FunctionWithVarArgs">
+    <configuration name="FunctionWithVarArgs" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.functions.FunctionWithVarArgs" />
+      <module name="sparkStream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="maxSpendByCustomer" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.maxSpendByCustomer" />
       <module name="sparkStream" />
@@ -75,13 +82,6 @@
     </configuration>
     <configuration name="nonconsecutiveSumMax" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.nonconsecutiveSumMax" />
-      <module name="sparkStream" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="wc" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="durgesh.software.scalaDemo.exercises.wc" />
       <module name="sparkStream" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,20 +114,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.wc" />
       <item itemvalue="Application.mintemp" />
       <item itemvalue="Application.maxSpendByCustomer" />
       <item itemvalue="Application.mostPopularMovie" />
       <item itemvalue="Application.nonconsecutiveSumMax" />
       <item itemvalue="Maven.sparkStream " />
+      <item itemvalue="Application.FunctionWithVarArgs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionWithVarArgs" />
         <item itemvalue="Application.nonconsecutiveSumMax" />
         <item itemvalue="Application.mintemp" />
         <item itemvalue="Application.mostPopularMovie" />
         <item itemvalue="Application.maxSpendByCustomer" />
-        <item itemvalue="Application.wc" />
       </list>
     </recent_temporary>
   </component>
@@ -157,22 +157,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605023186587" />
-    <state width="1323" height="276" key="GridCell.Tab.0.bottom" timestamp="1604673696072">
+    <state width="1323" height="276" key="GridCell.Tab.0.bottom" timestamp="1605591079846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="276" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604673696072" />
-    <state width="1323" height="276" key="GridCell.Tab.0.center" timestamp="1604673696071">
+    <state width="1323" height="276" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605591079846" />
+    <state width="1323" height="276" key="GridCell.Tab.0.center" timestamp="1605591079845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="276" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604673696071" />
-    <state width="1323" height="276" key="GridCell.Tab.0.left" timestamp="1604673696071">
+    <state width="1323" height="276" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605591079845" />
+    <state width="1323" height="276" key="GridCell.Tab.0.left" timestamp="1605591079845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="276" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604673696071" />
-    <state width="1323" height="276" key="GridCell.Tab.0.right" timestamp="1604673696072">
+    <state width="1323" height="276" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605591079845" />
+    <state width="1323" height="276" key="GridCell.Tab.0.right" timestamp="1605591079846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="276" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604673696072" />
+    <state width="1323" height="276" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605591079846" />
     <state x="369" y="145" width="680" height="438" key="NewModule_or_Project.wizard" timestamp="1604652287886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

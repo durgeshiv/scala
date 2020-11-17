@@ -12,4 +12,9 @@ object FunctionWithVarArgs extends App {
   }
 
   println(concatAll(List("durgesh","Agnihotri" ) : _*))
+
+
+  val stringToBeConcat = "this is the string to be concatenated"
+  val conC = concatAll(stringToBeConcat.split(" "): _*)
+  println(conC)
 }
